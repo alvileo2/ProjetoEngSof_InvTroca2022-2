@@ -98,6 +98,7 @@ Apresentação1 do Projeto: https://www.canva.com/design/DAFebH_uDfc/K7koquOkdNf
 ACOMPANHAMENTO de execução do projeto e eventual [RE]ALINHAMENTO de direções:https://trello.com/b/b03HKLlb/engenahria-software-invtroca
 
 Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU79tCGLQvyE7
+
 ---- Resultado da Pesquisa -----
 ![image](https://user-images.githubusercontent.com/121324938/231005844-cff8d16f-e02f-4211-bb83-e0a414bacd38.png)
 
