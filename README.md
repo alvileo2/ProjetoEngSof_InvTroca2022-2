@@ -116,3 +116,19 @@ Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU
 ![image](https://user-images.githubusercontent.com/121324938/231006635-424d0c18-31c4-49aa-91a0-1db640dff068.png)
 
 ![image](https://user-images.githubusercontent.com/121324938/231007086-86b0fd34-bc62-4a10-85a2-d07149444f3f.png)
+
+Persona escolhida para a implementação do projeto: 
+Persona: João
+Nome: João da Costa Silva
+Idade: 35 anos
+Profissão: Funcionário Público da área administativa da prefeitura
+Situação: 
+a) João é um homem que vive em uma comunidade(edifício) onde seu espaço é pequeno do seu apartamento. 
+b) Ele está procurando uma maneira de trocar seus utensílios por outros produtos que não consegue obter por falta de recursos, como aspirador de pó robô, Videogame, Furadeira e um ar condionado portátil.
+Objetivos: João deseja encontrar um sistema de troca online que lhe permita encontrar outros membros da comunidade dispostos a trocar seus produtos por outros moradores, sem ter que custear cada item de lojas ou depender de intermediários.
+Desafios: 
+a) João tem pouco acesso à internet e pouca experiência em transações online. 
+b) Ele precisa de um sistema que seja fácil de usar e seguro para suas transações. Ele também precisa de uma forma de verificar a confiabilidade de outros membros do sistema, para evitar fraudes ou trocas desiguais.
+Interesses: 
+a) João está interessado em ter experiência de uso de outros produtos que vão mudar a sua rotina e vai lhe proporcionar melhor bem estar. 
+b) Ele tem conhecimento sobre a qualidade dos produtos que possui em seu apartamento e está interessado em aprender sobre outros produtos de seus colegas na comunidade.
