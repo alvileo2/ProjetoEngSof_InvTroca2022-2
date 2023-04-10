@@ -9,8 +9,6 @@ Escrito por:
 [Alexandre Vieira Leonardo] ([avl@cin.ufpe.br]),
 [Bruno Silva Cordeiro] ([bsc2@cin.ufpe.br]).
 
-
-![image](https://user-images.githubusercontent.com/87626156/228095800-0aec1c74-364e-42fb-91c3-900291b94570.png
  
 Frase de inspiração: “A melhor maneira de iniciar é parar de falar e começar a fazer!”
 Walt Disney, desenhista e empresário americano
