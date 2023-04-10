@@ -98,3 +98,19 @@ Apresentação1 do Projeto: https://www.canva.com/design/DAFebH_uDfc/K7koquOkdNf
 ACOMPANHAMENTO de execução do projeto e eventual [RE]ALINHAMENTO de direções:https://trello.com/b/b03HKLlb/engenahria-software-invtroca
 
 Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU79tCGLQvyE7
+---- Resultado da Pesquisa -----
+![image](https://user-images.githubusercontent.com/121324938/231005844-cff8d16f-e02f-4211-bb83-e0a414bacd38.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231005918-957fa1c8-b6ee-400a-b43f-6a58fbf644ac.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231006027-cae05938-9249-45ba-b5cb-bf6596e88514.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231006095-874b4661-65a8-4b8c-ae9d-e54e098457f0.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231006184-1c329ddd-2514-4a84-b480-3e9341aea42f.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231006526-7599f90e-9006-4c37-a2a9-d05beb207996.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231006635-424d0c18-31c4-49aa-91a0-1db640dff068.png)
+
+![image](https://user-images.githubusercontent.com/121324938/231007086-86b0fd34-bc62-4a10-85a2-d07149444f3f.png)
