@@ -117,10 +117,14 @@ Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU
 
 ![image](https://user-images.githubusercontent.com/121324938/231007086-86b0fd34-bc62-4a10-85a2-d07149444f3f.png)
 
-Persona escolhida para a implementação do projeto: 
+Persona escolhida para a implementação do projeto:
+
 Persona: João
+
 Nome: João da Costa Silva
+
 Idade: 35 anos
+
 Profissão: Funcionário Público da área administativa da prefeitura
 
 Situação:
