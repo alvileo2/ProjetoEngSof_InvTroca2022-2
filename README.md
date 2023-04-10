@@ -135,6 +135,7 @@ b) Ele está procurando uma maneira de trocar seus utensílios por outros produt
 Objetivos: João deseja encontrar um sistema de troca online que lhe permita encontrar outros membros da comunidade dispostos a trocar seus produtos por outros moradores, sem ter que custear cada item de lojas ou depender de intermediários.
 
 Desafios: 
+
 a) João tem pouco acesso à internet e pouca experiência em transações online.
 
 b) Ele precisa de um sistema que seja fácil de usar e seguro para suas transações. Ele também precisa de uma forma de verificar a confiabilidade de outros membros do sistema, para evitar fraudes ou trocas desiguais.
