@@ -1,19 +1,7 @@
 #
 ![image](https://user-images.githubusercontent.com/87626156/228038541-31bdd451-abdc-4281-9a8a-5b453abfe452.png)
-
-
-
-
-
-
 # # #Engenharia Software Sistema-InvTroca“
-
 #
-
-
-
-
-
 
 
 
