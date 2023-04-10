@@ -100,6 +100,7 @@ ACOMPANHAMENTO de execução do projeto e eventual [RE]ALINHAMENTO de direções
 Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU79tCGLQvyE7
 
 ---- Resultado da Pesquisa -----
+
 ![image](https://user-images.githubusercontent.com/121324938/231005844-cff8d16f-e02f-4211-bb83-e0a414bacd38.png)
 
 ![image](https://user-images.githubusercontent.com/121324938/231005918-957fa1c8-b6ee-400a-b43f-6a58fbf644ac.png)
