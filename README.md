@@ -40,7 +40,7 @@ Fizemos muitos levantamentos dos requisitos e constatamos que atividade estoque 
 
 1- Seria esta acima;
 Resumo:
-A ideia que tivemos foi construí iventario de produto para serem trocados ou pego em banco de produto em site na web. Neste site deveria ter um cadastro de pessoas e  produtos. Havendo uma comunicação entre as pessoas da troca ou pega.
+A ideia que tivemos foi construí inventario de produto para serem trocados ou emprestos em banco de produto em site na web. Neste site deveria ter um cadastro de pessoas e  produtos. Havendo uma comunicação entre as pessoas da troca ou pega.
 
 4) Que questão essencial você propõe para o projeto?
 
