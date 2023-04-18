@@ -91,7 +91,7 @@ https://docs.google.com/presentation/d/1eSXCnMxM7keCL6GFwiGmzMTmU74PvLpRzHvvAZaO
 
 3 - Acompanhamento atualizado sobre o status do projeto (13/04/2023 a 18/04/2023)
 
-Tivemos problemas sobre a implementação das especificações específicas e realizamos um novo realinhamento do projeto
+Tivemos problemas sobre a implementação das especificações e realizamos um novo realinhamento do projeto.
 
 # ---- Resultado da Pesquisa -----
 
