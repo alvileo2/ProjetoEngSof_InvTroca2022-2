@@ -1,6 +1,7 @@
 #
 ![image](https://user-images.githubusercontent.com/87626156/228038541-31bdd451-abdc-4281-9a8a-5b453abfe452.png)
-# # #Engenharia Software Sistema-InvTroca“
+
+# # # Engenharia Software Sistema-InvTroca“
 #
 
 Construção do Sistema para disciplina Engenharia de Software no semestre 2022.2.
@@ -88,7 +89,7 @@ ACOMPANHAMENTO de execução do projeto e eventual [RE]ALINHAMENTO de direções
 
 Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU79tCGLQvyE7
 
-# Sprints ocorridas #
+# # Sprints ocorridas 
 
 1 - 
 
