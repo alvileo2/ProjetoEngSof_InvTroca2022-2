@@ -68,7 +68,7 @@ As questões norteadoras a explorar cria o questionamento ao público alvo para 
 
 7)Quais atividades e recursos norteadores você sugere para responder às questões norteadoras?
  
- Utilizamos de pesquisa de campos pela comunidade do edifio em questões sobre InvTroPego?
+ Utilizamos de pesquisa de campos pela comunidade do edifio em questões sobre InvTroca?
  Utilizamos revista e programa da globo Pequena empresa e grande negocios?
 
 8)Quais os fundamentos que você aprendeu que nortearão as hipóteses de solução?
@@ -83,19 +83,15 @@ Criar uma plataforma digital, no formato de página na WEB, que servirá de vitr
 A solução será testada a partir da inserção de possíveis usuários da plataforma e sua utilização no dia a dia. Em uma etapa anterior ao desenvolvimento, será enviado um formulário à comunidade do edifio com as perguntas chave a respeito da problemática. A partir das respostas do formulário, nos faremos inventarios dos produto para troca ou pega. Vamos solicita o teste do prototipo e tenta melhorá os possiveis bug.
 
 
-Referências:
-
-https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
-https://www.conexorama.com/big-idea/
-https://github.com/alvileo2/IF977EngenhariaSoftware20222
-https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
-
-
 Apresentação1 do Projeto: https://www.canva.com/design/DAFebH_uDfc/K7koquOkdNfGVQ04cUwkGw/edit?utm_content=DAFebH_uDfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ACOMPANHAMENTO de execução do projeto e eventual [RE]ALINHAMENTO de direções:https://trello.com/b/b03HKLlb/engenahria-software-invtroca
 
 Formulário de implementação da pesquisa ao usuário: https://forms.gle/y66jYU79tCGLQvyE7
+
+# Sprints ocorridas #
+
+1 - 
 
 ---- Resultado da Pesquisa -----
 
@@ -143,3 +139,10 @@ Interesses:
 a) João está interessado em ter experiência de uso de outros produtos que vão mudar a sua rotina e vai lhe proporcionar melhor bem estar. 
 
 b) Ele tem conhecimento sobre a qualidade dos produtos que possui em seu apartamento e está interessado em aprender sobre outros produtos de seus colegas na comunidade.
+
+Referências:
+
+https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
+https://www.conexorama.com/big-idea/
+https://github.com/alvileo2/IF977EngenhariaSoftware20222
+https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
