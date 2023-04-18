@@ -1,8 +1,8 @@
 #
 ![image](https://user-images.githubusercontent.com/87626156/228038541-31bdd451-abdc-4281-9a8a-5b453abfe452.png)
 
-# # Engenharia Software "Sistema-InvTroca“
-#
+#  Engenharia Software "Sistema-InvTroca“
+
 
 Construção do Sistema para disciplina Engenharia de Software no semestre 2022.2
 
@@ -13,16 +13,16 @@ Escrito por:
  2)Este é o possível README
 REPOSITORIO GITHUB : https://github.com/alvileo2/ProjetoEngSof_InvTroca2022-2
 
-# # Inventario de Troca de Produto
+# Inventario de Troca de Produto
 
 O InvTroca foi criado pela necessidade de comunidade em questão, em que utiliza algo e muitas vezes não precisa comprar equipamentos próprios para cada moradia, portanto se viu a necessidade da construção de um sistema de troca solidaria inicialmente pensando em edifícios.
 
-# # Equipe responsável na construção do InvTroca
+# Equipe responsável na construção do InvTroca
 
 Alunos do curso de Sistemas de Informação ( UFPE): Alexandre Vieira Leonardo e Bruno Silva Cordeiro
 
 
-# # Questões Essenciais
+# Questões Essenciais
 
 3) ​Que big idea você propõe para o projeto?
 
@@ -79,7 +79,7 @@ Apresentação1 do Projeto: https://www.canva.com/design/DAFebH_uDfc/K7koquOkdNf
 
 
 
-# # Sprints ocorridas 
+# Sprints ocorridas 
 
 1 - Acompanhamento do projeto pela plataforma Trello: https://trello.com/b/b03HKLlb/engenahria-software-invtroca
 
@@ -93,7 +93,7 @@ https://docs.google.com/presentation/d/1eSXCnMxM7keCL6GFwiGmzMTmU74PvLpRzHvvAZaO
 
 Tivemos problemas sobre a implementação das especificações específicas e realizamos um novo realinhamento do projeto
 
-# # ---- Resultado da Pesquisa -----
+# ---- Resultado da Pesquisa -----
 
 ![image](https://user-images.githubusercontent.com/121324938/231005844-cff8d16f-e02f-4211-bb83-e0a414bacd38.png)
 
@@ -112,7 +112,7 @@ Tivemos problemas sobre a implementação das especificações específicas e re
 ![image](https://user-images.githubusercontent.com/121324938/231007086-86b0fd34-bc62-4a10-85a2-d07149444f3f.png)
 
 
-# # Persona escolhida para a implementação do projeto:
+# Persona escolhida para a implementação do projeto:
 
 Persona: João
 
@@ -142,7 +142,7 @@ a) João está interessado em ter experiência de uso de outros produtos que vã
 b) Ele tem conhecimento sobre a qualidade dos produtos que possui em seu apartamento e está interessado em aprender sobre outros produtos de seus colegas na comunidade.
 
 
-# # Referências:
+# Referências:
 
 https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
 https://www.conexorama.com/big-idea/
