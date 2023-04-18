@@ -29,8 +29,6 @@ O InvTroca foi criado
 Aluno de Sistema de Informação ( UFPE): Alexandre Vieira Leonardo
                                         Bruno Silva Cordeiro
 
-![cronograma atual](https://user-images.githubusercontent.com/87626156/228056275-9408c830-2bc5-4b56-baf3-a554284ae380.png)
-
 https://docs.google.com/spreadsheets/d/1mEIwjc9crMd48JTUHePWyU9jTNKPqbAZ-X8bw8oBwqQ/edit#gid=0
 Fizemos muitos levantamentos dos requisitos e constatamos que atividade estoque precisava modelagem do banco para construção APP InvTroca.
 -Modelo relacional
