@@ -147,4 +147,5 @@ b) Ele tem conhecimento sobre a qualidade dos produtos que possui em seu apartam
 https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
 https://www.conexorama.com/big-idea/
 https://github.com/alvileo2/IF977EngenhariaSoftware20222
+
 https://medium.com/antonio-de-carvalho-jr/transformando-uma-ideia-em-uma-potencial-solu%C3%A7%C3%A3o-1103f3967519
