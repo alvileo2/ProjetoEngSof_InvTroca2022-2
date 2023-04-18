@@ -32,6 +32,7 @@ Aluno de Sistema de Informação ( UFPE): Alexandre Vieira Leonardo
 https://docs.google.com/spreadsheets/d/1mEIwjc9crMd48JTUHePWyU9jTNKPqbAZ-X8bw8oBwqQ/edit#gid=0
 Fizemos muitos levantamentos dos requisitos e constatamos que atividade estoque precisava modelagem do banco para construção APP InvTroca.
 -Modelo relacional
+
 ![invtrope](https://user-images.githubusercontent.com/87626156/228056032-4d7c394c-84b0-445d-8048-c431e45d5ed4.png)
 
 3) ​Que big idea você propõe para o projeto?
