@@ -87,11 +87,23 @@ Apresentação1 do Projeto: https://www.canva.com/design/DAFebH_uDfc/K7koquOkdNf
 
 2 - Acompanhamento sobre o status do projeto:
 
-https://docs.google.com/presentation/d/1eSXCnMxM7keCL6GFwiGmzMTmU74PvLpRzHvvAZaOwm0/edit#slide=id.g1e117dab267_0_169
+https://docs.google.com/presentation/d/1eSXCnMxM7keCL6GFwiGmzMTmU74PvLpRzHvvAZaOwm0/edit#slide=id.g1e117dab267_0_169 
+
+2.1 - Renuião de realinhamento do projeto
+
+Em renuião presencial, fizemos uma votação sobre num novo realinhamento que gerou 4 opções para o seguimento do projeto: 
+
+1 - Usar a plataforma Wordpress pra refazer o frontend e backend do projeto
+2 - Reconstruir, usando as tecnologias mais simples (HTML5, CSS3 e JavaScript)
+3 - Usar a plataforma App Inventor e CRUD já prontos no projeto
+4 - Um dos componentes desistir do projeto e reavaliar a nota 360º
+
+Foi escolhido de forma randômica (https://www.random.org/)... O escolhido foi a opção 3 
 
 3 - Acompanhamento atualizado sobre o status do projeto (13/04/2023 a 18/04/2023)
 
-Tivemos problemas sobre a implementação das especificações e realizamos um novo realinhamento do projeto.
+Tivemos problemas sobre a implementação das especificações e realizamos um novo realinhamento do projeto. Tentamos fazer o projeto, nas especificações escolhidas, mas sem sucesso.
+
 
 # ---- Resultado da Pesquisa -----
 
